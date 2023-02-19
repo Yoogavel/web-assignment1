@@ -1,0 +1,42 @@
+/*main content*/
+.container{
+  background-color:#CDF6C8;
+}
+/*navigation*/
+.navbar-brand{
+  margin-left:10%;
+  font-size:30%;
+}
+
+#navbarNav{
+  margin-right:10%;
+  font-size: 100%;
+  font-color:black;
+}
+
+.navbar{
+  background-color:#CDF6C8;
+}
+.navbar-toggler-icon{
+  color:#B9F3FC;
+}
+
+
+/*Cookies*/
+h1{
+  color:#7B8FA1;
+  background-color:#CDF6C8;
+  font-family: 'Merienda', cursive;
+}
+
+.row{
+  background-color:#CDF6C8;
+}
+
+
+/*testimonials*/
+.testimonial-img{
+  border-radius:50%;
+  width:15%;
+  margin-top:5%;
+}
